@@ -1,0 +1,4 @@
+mkdir mcp-remote-server
+cd mcp-remote-server
+npm init -y
+npm install express
